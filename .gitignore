@@ -1,0 +1,30 @@
+# MATLAB backup and temporary files
+*.asv
+*.autosave
+*.m~
+*.tmp
+*.log
+
+# MATLAB generated folders
+slprj/
+sccprj/
+codegen/
+cache/
+build/
+
+# Simulink generated files
+*.slxc
+*.mex*
+*.mdl.r*
+*.slx.r*
+
+# Operating system files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Large datasets and raw results
+data/full/
+data/raw/
+models/full/
+results/raw/
