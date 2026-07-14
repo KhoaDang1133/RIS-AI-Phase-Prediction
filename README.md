@@ -1,4 +1,4 @@
-Ứng dụng AI dự đoán pha RIS bằng mạng FC-MultiHead
+# Ứng dụng AI dự đoán pha RIS bằng mạng FC-MultiHead
 1. Giới thiệu
 
 Dự án xây dựng mô hình trí tuệ nhân tạo nhằm dự đoán cấu hình pha phản xạ của bề mặt phản xạ thông minh RIS trong hệ thống truyền thông vô tuyến BS–RIS–UE.
